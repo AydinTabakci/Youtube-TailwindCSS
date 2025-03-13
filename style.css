@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    background-color: #0F0F0F;
+}
+
+.scrolbar {
+    scrollbar-color: #0F0F0F #0F0F0F;
+}
+
+.scrolbar:hover {
+    scrollbar-color: #717171 #0F0F0F;
+}
